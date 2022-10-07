@@ -1,0 +1,16 @@
+.game-board {
+  border: solid 2px black;
+  font-size: 200%;
+  background-color: lightblue;
+  padding: 10px;
+}
+
+.game-board td {
+  text-align: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border: solid black;
+  border-radius: 6px;
+  background-color: white;
+  padding: 10px;
+}
